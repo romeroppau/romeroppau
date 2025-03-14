@@ -8,7 +8,7 @@ Actualmente cursando la Carrera de Desarrollo Frontend React - CODERHOUSE
 ---
 
 ## 🚀 Habilidades y Tecnologías
-- **Lenguaje en Aprendizaje:** C
+- **Lenguaje en Aprendizaje:** C - HTML - JAVA
 
 ## 🎯 Objetivos de Aprendizaje
 - Desarrollar una base sólida en programación
