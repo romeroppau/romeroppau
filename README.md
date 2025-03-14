@@ -3,7 +3,7 @@
 #  Soy Ana Paula Romero
 
 Estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu). 
-Tengo 19 años y actualmente me encuentro en el proceso de aprender a programar y desarrollar mis habilidades en tecnología y software.
+Actualmente cursando la Carrera de Desarrollo Frontend React - CODERHOUSE
 
 ---
 
