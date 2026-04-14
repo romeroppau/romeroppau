@@ -3,7 +3,6 @@
 #  Soy Ana Paula Romero
 
 Estudiante de Licenciatura en Sistemas de Información en la Universidad Nacional de Luján (UNLu). 
-Actualmente cursando la Carrera de Desarrollo Frontend React - CODERHOUSE
 
 ---
 
